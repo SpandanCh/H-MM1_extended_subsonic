@@ -1,7 +1,7 @@
-
 # untracked files
 */*.key
 */*/*.key
 .ipynb_checkpoints/
 .DS_Store
+figures/.DS_Store
 figures/.DS_Store
